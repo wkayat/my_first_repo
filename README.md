@@ -6,5 +6,3 @@ test
 
 ## Branch Test
 New paragraph in branch
-
-LALALA
